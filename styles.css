@@ -1,0 +1,24 @@
+body {
+    background-color: lightgray;
+}
+
+#gerekliler {
+    
+    background-color: rgb(211, 196, 169);
+    float: left;
+    width: 27.72%;
+    font-size: 17px;
+}
+
+#description {
+    text-align: center;
+    
+}
+
+#hazirlama{
+    background-color: rgb(211, 196, 169);
+    float: right;
+    width: 35%;
+}
+
+
